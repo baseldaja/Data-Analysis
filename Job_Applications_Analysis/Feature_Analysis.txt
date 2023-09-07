@@ -1,0 +1,28 @@
+**Feature Analysis**
+1-enrollee_id: A unique identifier for each individual enrollee or candidate.
+
+2-city: The city where the enrollee is located.
+
+3-city_development_index: A measure of the development level of the city, often used as an indicator of urbanization and economic development.
+
+4-gender: The gender of the enrollee (e.g., male, female, other, or not specified).
+
+5-relevent_experience: Indicates whether the enrollee has relevant work experience for the job they are applying for.
+
+6-enrolled_university: The type of university program the enrollee is currently enrolled in or has completed.
+
+7-education_level: The highest level of education attained by the enrollee (e.g., high school, bachelor's degree, master's degree, etc.).
+
+8-major_discipline: The academic discipline or field of study in which the enrollee has expertise.
+
+9-experience: The number of years of work experience the enrollee has.
+
+10-company_size: The size or scale of the company where the enrollee is currently employed or was previously employed.
+
+11-company_type: The type of organization or company the enrollee works for (e.g., private, public, NGO, etc.).
+
+12-last_new_job: The duration (in months) since the enrollee's last job change or job switch.
+
+13-training_hours: The number of hours of training the enrollee has undergone.
+
+14-target: A binary target variable indicating whether the enrollee is looking for a job change (1) or not (0).
