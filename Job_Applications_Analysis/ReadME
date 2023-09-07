@@ -1,1 +1,43 @@
+Data Cleaning Process README
+Overview
+This README provides an overview of the data cleaning process for the "Clean_Data" dataset.
+The dataset contains information about how was cleaned to prepare it for analysis or further use.
 
+Data Sources
+Original Data: Kaggle-Job_applications
+Data Cleaning Steps
+The data cleaning process involved several steps to ensure that the dataset is accurate, complete, and ready for analysis. Below are the main data cleaning steps performed:
+
+Loading the Data: The original dataset was loaded into a Pandas DataFrame for processing.
+
+Handling Missing Values:
+
+Identified columns with missing values.
+Filled missing values in specific columns with appropriate strategies (mode, mean, or 'other').
+Removing Duplicates: Duplicate rows, if any, were identified and removed from the dataset. (if needed)
+
+Data Type Conversion: Ensured that data types for each column were appropriate (converting dates to datetime objects). (if needed)
+
+Data Validation:
+
+Checked for unrealistic or incorrect values in numeric columns.
+Verified that categorical columns contained valid categories.
+
+Saving the Cleaned Data:
+
+The cleaned dataset was saved to a CSV file named "Clean_Data.csv" in the "Data_CSV" folder.
+Usage
+
+The cleaned dataset, "Clean_Data.csv," can now be used for data analysis, modeling, or any other data-related tasks. To utilize the cleaned data, follow these steps:
+
+Load the Cleaned Data: Use a programming language like Python and libraries such as Pandas to load the "Clean_Data.csv" file into a DataFrame.
+
+Data Analysis: Perform your desired data analysis, visualization, or modeling tasks on the cleaned dataset.
+
+Dependencies
+Python 3.x
+Pandas
+NumPy
+Matplotlib or Seaborn
+Contributors:
+Basel F. AlDajah
