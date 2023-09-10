@@ -9,7 +9,7 @@
 
 5-relevent_experience: Indicates whether the enrollee has relevant work experience for the job they are applying for.
 
-6-enrolled_university: The type of university program the enrollee is currently enrolled in or has completed.
+6-enrolled_university: The type of university program the enrollee is currently enrolled in.
 
 7-education_level: The highest level of education attained by the enrollee (e.g., high school, bachelor's degree, master's degree, etc.).
 
@@ -19,7 +19,7 @@
 
 10-company_size: The size or scale of the company where the enrollee is currently employed or was previously employed.
 
-11-company_type: The type of organization or company the enrollee works for (e.g., private, public, NGO, etc.).
+11-company_type: The type of organization or company the enrollee works for (e.g., private, public, etc.).
 
 12-last_new_job: The duration (in months) since the enrollee's last job change or job switch.
 
