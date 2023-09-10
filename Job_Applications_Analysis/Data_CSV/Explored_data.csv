@@ -1,0 +1,442 @@
+enrollee_id,city,city_development_index,gender,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+10,city_114,0.926,Female,Bachelor,STEM,15,<10,Funded Startup,1,53
+50,city_103,0.92,Male,Phd,STEM,21,10000+,Pvt Ltd,1,79
+124,city_103,0.92,Male,Masters,STEM,21,10000+,Pvt Ltd,2,34
+200,city_103,0.92,Male,Bachelor,Humanities,21,100-500,Pvt Ltd,3,11
+208,city_16,0.91,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,58
+269,city_103,0.92,Other,Bachelor,STEM,11,50-99,Pvt Ltd,1,31
+402,city_46,0.762,Male,Bachelor,STEM,13,<10,Pvt Ltd,5,18
+736,city_23,0.899,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,7
+745,city_16,0.91,prefer not to say,Bachelor,STEM,19,50-99,Other,2,306
+889,city_159,0.843,prefer not to say,Bachelor,STEM,17,50-99,Funded Startup,1,70
+1057,city_103,0.92,Male,Bachelor,STEM,21,100-500,Pvt Ltd,2,16
+1128,city_100,0.887,prefer not to say,Bachelor,STEM,21,10000+,Pvt Ltd,4,12
+1200,city_114,0.926,Female,Masters,STEM,21,500-999,Pvt Ltd,5,108
+1299,city_103,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,5,42
+1356,city_103,0.92,Female,Masters,STEM,21,<10,Pvt Ltd,5,15
+1561,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,79
+1573,city_103,0.92,Male,Bachelor,Business Degree,21,500-999,Funded Startup,3,22
+1598,city_16,0.91,Male,Bachelor,STEM,21,50-99,Pvt Ltd,4,34
+1625,city_160,0.92,Male,Masters,STEM,21,10000+,Pvt Ltd,5,32
+1649,city_103,0.92,Male,Bachelor,STEM,16,10000+,Pvt Ltd,5,91
+1698,city_143,0.74,Male,Bachelor,STEM,11,50-99,Pvt Ltd,1,58
+1805,city_103,0.92,Male,Bachelor,STEM,17,50-99,Funded Startup,1,81
+1815,city_27,0.848,Male,Masters,STEM,18,10000+,Pvt Ltd,5,17
+1819,city_21,0.624,Male,Masters,STEM,21,500-999,NGO,5,26
+1823,city_21,0.624,Male,Bachelor,STEM,11,10000+,Pvt Ltd,1,57
+1860,city_21,0.624,Female,Bachelor,STEM,11,500-999,Pvt Ltd,1,56
+1875,city_21,0.624,Male,Masters,Business Degree,16,<10,Pvt Ltd,1,30
+1888,city_104,0.924,Male,Bachelor,STEM,13,5000-9999,Pvt Ltd,5,31
+1908,city_21,0.624,Male,Masters,STEM,12,10000+,Pvt Ltd,1,184
+1958,city_103,0.92,Male,Bachelor,STEM,12,10000+,Pvt Ltd,4,114
+2012,city_162,0.767,Male,Bachelor,STEM,20,10000+,Pvt Ltd,5,34
+2040,city_89,0.925,Male,Bachelor,STEM,17,50-99,Pvt Ltd,1,8
+2051,city_21,0.624,prefer not to say,Bachelor,STEM,11,10000+,Pvt Ltd,0,41
+2078,city_100,0.887,Male,Bachelor,STEM,15,1000-4999,Pvt Ltd,3,107
+2105,city_21,0.624,prefer not to say,Masters,STEM,13,100-500,Pvt Ltd,2,101
+2141,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,5,14
+2143,city_21,0.624,Male,Masters,STEM,15,50-99,Pvt Ltd,3,77
+2193,city_21,0.624,Male,Bachelor,STEM,17,50-99,Pvt Ltd,1,78
+2202,city_24,0.698,Male,Masters,STEM,14,1000-4999,Pvt Ltd,5,29
+2205,city_75,0.939,Male,Bachelor,STEM,11,50-99,Pvt Ltd,0,56
+2288,city_61,0.913,Female,Masters,STEM,13,50-99,Pvt Ltd,2,72
+2327,city_21,0.624,prefer not to say,Bachelor,STEM,17,1000-4999,Pvt Ltd,1,42
+2363,city_75,0.939,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,1,302
+2400,city_114,0.926,Male,Bachelor,STEM,14,100-500,Funded Startup,1,32
+2406,city_114,0.926,Male,Bachelor,STEM,12,<10,Pvt Ltd,1,19
+2414,city_21,0.624,Male,Bachelor,STEM,11,10000+,Pvt Ltd,0,45
+2460,city_102,0.804,Male,Masters,STEM,12,50-99,Pvt Ltd,0,26
+2738,city_21,0.624,Male,Bachelor,STEM,12,5000-9999,Other,1,87
+2775,city_90,0.698,Male,Bachelor,STEM,13,<10,Funded Startup,1,308
+2990,city_173,0.878,Male,Masters,STEM,21,1000-4999,Pvt Ltd,3,32
+3035,city_136,0.897,Male,Bachelor,STEM,15,<10,Pvt Ltd,5,122
+3088,city_103,0.92,Male,Masters,STEM,21,100-500,Funded Startup,1,11
+3143,city_16,0.91,Male,Masters,STEM,17,50-99,Pvt Ltd,3,33
+3159,city_103,0.92,Male,Bachelor,STEM,21,100-500,Other,5,48
+3184,city_16,0.91,Male,Bachelor,STEM,14,100-500,Pvt Ltd,2,140
+3211,city_67,0.855,prefer not to say,Bachelor,STEM,11,1000-4999,Pvt Ltd,2,81
+3247,city_100,0.887,prefer not to say,Masters,STEM,19,1000-4999,Pvt Ltd,0,104
+3257,city_16,0.91,Male,Masters,STEM,21,100-500,Pvt Ltd,1,88
+3310,city_103,0.92,Male,Bachelor,STEM,12,100-500,Pvt Ltd,5,9
+3438,city_103,0.92,Male,Bachelor,STEM,15,100-500,Pvt Ltd,2,28
+3456,city_21,0.624,Male,Masters,STEM,14,1000-4999,Pvt Ltd,2,21
+3588,city_28,0.939,prefer not to say,Not provided,Other,18,50-99,Pvt Ltd,0,47
+3823,city_103,0.92,Male,Bachelor,STEM,14,50-99,Pvt Ltd,1,158
+4080,city_21,0.624,Male,Bachelor,STEM,11,100-500,Pvt Ltd,1,10
+4081,city_114,0.926,Female,Bachelor,STEM,15,100-500,Pvt Ltd,2,5
+4139,city_83,0.923,Male,Masters,STEM,14,1000-4999,Pvt Ltd,4,11
+4142,city_103,0.92,Male,Masters,STEM,13,1000-4999,NGO,5,30
+4235,city_100,0.887,Male,Phd,STEM,16,50-99,Funded Startup,1,212
+4406,city_103,0.92,Male,Bachelor,STEM,21,100-500,Pvt Ltd,4,51
+4473,city_21,0.624,Male,Bachelor,STEM,15,500-999,Funded Startup,2,75
+4800,city_21,0.624,Male,Bachelor,STEM,17,500-999,Pvt Ltd,0,4
+4845,city_21,0.624,prefer not to say,Masters,STEM,19,10000+,Public Sector,1,124
+4861,city_179,0.512,Male,Bachelor,STEM,13,50-99,Pvt Ltd,1,51
+4864,city_41,0.827,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,2,52
+5147,city_103,0.92,Male,Bachelor,STEM,21,100-500,Pvt Ltd,2,20
+5183,city_21,0.624,Male,Bachelor,STEM,11,500-999,Pvt Ltd,2,204
+5205,city_162,0.767,prefer not to say,Bachelor,STEM,21,500-999,Public Sector,0,28
+5270,city_136,0.897,Male,Masters,STEM,21,<10,NGO,2,37
+5339,city_97,0.925,Male,Masters,STEM,16,10000+,Pvt Ltd,5,108
+5423,city_102,0.804,Male,Masters,STEM,21,10000+,Pvt Ltd,1,25
+5565,city_21,0.624,Male,Masters,STEM,17,1000-4999,Pvt Ltd,5,168
+5666,city_114,0.926,Male,Masters,STEM,14,50-99,Pvt Ltd,1,23
+5784,city_100,0.887,prefer not to say,Bachelor,STEM,17,50-99,Other,5,23
+5789,city_173,0.878,Male,Masters,STEM,11,100-500,Pvt Ltd,1,24
+5903,city_21,0.624,Male,Bachelor,STEM,15,5000-9999,Pvt Ltd,3,67
+5952,city_21,0.624,Male,Masters,STEM,20,10000+,Pvt Ltd,5,54
+6004,city_71,0.884,Male,Bachelor,STEM,21,100-500,Pvt Ltd,1,10
+6024,city_16,0.91,Male,Bachelor,STEM,21,50-99,Pvt Ltd,0,110
+6121,city_57,0.866,Male,Phd,STEM,21,100-500,NGO,5,116
+6310,city_73,0.754,Male,Bachelor,STEM,11,50-99,Pvt Ltd,1,25
+6374,city_21,0.624,Male,Bachelor,Business Degree,14,<10,Pvt Ltd,1,87
+6457,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,2,49
+6458,city_21,0.624,Male,Masters,STEM,11,50-99,Early Stage Startup,5,46
+6468,city_115,0.789,prefer not to say,Bachelor,STEM,14,500-999,Pvt Ltd,1,48
+6508,city_115,0.789,prefer not to say,Bachelor,STEM,19,10000+,Pvt Ltd,5,18
+6565,city_21,0.624,Male,Masters,STEM,21,1000-4999,Pvt Ltd,2,56
+6678,city_21,0.624,prefer not to say,Masters,STEM,16,500-999,Pvt Ltd,2,13
+6682,city_71,0.884,prefer not to say,Bachelor,STEM,15,50-99,Pvt Ltd,3,86
+6761,city_74,0.579,Male,Bachelor,STEM,16,50-99,Pvt Ltd,5,168
+6773,city_114,0.926,Male,Phd,STEM,21,100-500,NGO,5,13
+6780,city_46,0.762,Male,Bachelor,STEM,14,1000-4999,Pvt Ltd,3,77
+7118,city_64,0.666,Male,Bachelor,STEM,16,100-500,Pvt Ltd,5,18
+7245,city_103,0.92,prefer not to say,Bachelor,STEM,14,100-500,NGO,1,44
+7450,city_103,0.92,Male,Masters,STEM,16,100-500,Pvt Ltd,2,24
+7451,city_103,0.92,Male,Masters,STEM,21,10000+,Pvt Ltd,5,33
+7684,city_21,0.624,Male,Masters,STEM,16,10000+,Pvt Ltd,4,25
+7843,city_75,0.939,Male,Bachelor,STEM,13,10000+,Pvt Ltd,1,54
+7920,city_84,0.698,Male,Masters,STEM,15,50-99,Pvt Ltd,2,96
+7939,city_21,0.624,prefer not to say,Bachelor,STEM,14,100-500,Pvt Ltd,5,45
+8249,city_103,0.92,Male,Bachelor,STEM,12,100-500,Other,1,75
+8328,city_114,0.926,Male,Masters,STEM,15,10000+,Pvt Ltd,5,9
+8399,city_103,0.92,Male,Primary School,Other,21,100-500,Pvt Ltd,5,19
+8489,city_11,0.55,Male,Not provided,Other,15,100-500,Pvt Ltd,5,15
+8611,city_103,0.92,Male,Bachelor,STEM,21,500-999,Pvt Ltd,5,188
+8655,city_16,0.91,Male,Bachelor,STEM,13,10000+,Pvt Ltd,5,80
+8696,city_103,0.92,prefer not to say,Bachelor,STEM,21,500-999,Pvt Ltd,5,46
+8705,city_103,0.92,Male,Bachelor,STEM,21,500-999,Public Sector,3,52
+8794,city_103,0.92,Male,Bachelor,STEM,21,100-500,Pvt Ltd,1,47
+8824,city_103,0.92,Male,Bachelor,STEM,18,100-500,Funded Startup,1,13
+8887,city_103,0.92,Male,Bachelor,STEM,15,50-99,Funded Startup,1,59
+8957,city_42,0.563,prefer not to say,Bachelor,STEM,11,<10,Early Stage Startup,0,54
+8999,city_28,0.939,Male,Masters,STEM,21,50-99,Early Stage Startup,1,3
+9030,city_21,0.624,Male,Bachelor,STEM,12,100-500,Funded Startup,1,84
+9042,city_26,0.698,Male,Masters,STEM,11,<10,Pvt Ltd,2,29
+9069,city_21,0.624,Male,Bachelor,STEM,14,100-500,Funded Startup,5,9
+9315,city_21,0.624,Male,Masters,STEM,19,1000-4999,Pvt Ltd,5,11
+9453,city_103,0.92,prefer not to say,Masters,STEM,21,1000-4999,Pvt Ltd,1,23
+9547,city_71,0.884,prefer not to say,Masters,STEM,14,50-99,NGO,5,65
+9583,city_21,0.624,Male,Masters,STEM,17,5000-9999,Pvt Ltd,5,67
+9606,city_73,0.754,Male,Bachelor,STEM,21,50-99,Pvt Ltd,1,141
+9629,city_103,0.92,Male,Masters,STEM,14,10000+,Pvt Ltd,4,166
+9631,city_114,0.926,prefer not to say,Masters,STEM,14,10000+,Pvt Ltd,0,62
+9713,city_114,0.926,Male,Masters,STEM,21,100-500,Pvt Ltd,5,22
+9721,city_103,0.92,Male,Masters,Arts,21,1000-4999,NGO,5,50
+9737,city_103,0.92,Male,Masters,Humanities,21,500-999,Pvt Ltd,1,78
+9815,city_103,0.92,Male,Bachelor,STEM,19,100-500,Funded Startup,4,14
+9856,city_138,0.836,Male,Masters,STEM,21,10000+,Pvt Ltd,5,10
+9884,city_103,0.92,Male,Bachelor,Humanities,13,<10,Pvt Ltd,4,30
+9939,city_160,0.92,prefer not to say,Masters,STEM,19,100-500,Pvt Ltd,5,56
+9988,city_103,0.92,Male,Bachelor,Other,21,500-999,Pvt Ltd,5,30
+10084,city_10,0.895,Female,Masters,STEM,21,100-500,Pvt Ltd,5,156
+10106,city_103,0.92,Male,Bachelor,Humanities,16,100-500,Pvt Ltd,5,228
+10164,city_114,0.926,Male,Phd,STEM,21,100-500,Pvt Ltd,4,42
+10288,city_103,0.92,prefer not to say,Bachelor,STEM,15,10000+,Other,1,111
+10375,city_103,0.92,Female,Bachelor,Humanities,21,5000-9999,Pvt Ltd,2,55
+10381,city_103,0.92,prefer not to say,Bachelor,Humanities,19,10000+,Pvt Ltd,0,13
+10402,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,5,134
+10408,city_21,0.624,Male,Bachelor,STEM,18,50-99,Funded Startup,2,68
+10417,city_103,0.92,Male,Bachelor,Business Degree,18,50-99,Pvt Ltd,1,92
+10490,city_21,0.624,prefer not to say,Bachelor,STEM,21,10000+,Pvt Ltd,5,26
+10615,city_123,0.738,Male,Bachelor,STEM,14,1000-4999,Pvt Ltd,2,29
+10661,city_10,0.895,Male,Phd,STEM,18,10000+,Pvt Ltd,2,6
+10673,city_159,0.843,Female,Bachelor,STEM,13,<10,Pvt Ltd,4,44
+10690,city_64,0.666,Female,Masters,STEM,13,500-999,Public Sector,5,28
+11192,city_11,0.55,Male,Bachelor,STEM,15,1000-4999,Pvt Ltd,3,165
+11214,city_16,0.91,Female,Phd,STEM,21,50-99,Pvt Ltd,1,106
+11292,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,156
+11306,city_103,0.92,Male,Masters,STEM,16,10000+,Pvt Ltd,2,3
+11352,city_16,0.91,Male,Masters,STEM,21,1000-4999,Pvt Ltd,1,150
+11370,city_103,0.92,prefer not to say,Bachelor,Arts,21,10000+,Pvt Ltd,1,10
+11455,city_21,0.624,Male,Bachelor,STEM,13,10000+,Pvt Ltd,3,53
+11457,city_114,0.926,Male,Bachelor,STEM,18,100-500,Pvt Ltd,5,130
+11657,city_103,0.92,Male,Bachelor,STEM,21,5000-9999,Pvt Ltd,5,4
+11750,city_11,0.55,Male,Bachelor,STEM,17,1000-4999,Pvt Ltd,4,13
+11772,city_102,0.804,Male,Masters,STEM,11,1000-4999,Pvt Ltd,1,15
+11780,city_16,0.91,Male,Bachelor,STEM,21,50-99,Pvt Ltd,1,43
+11788,city_16,0.91,Male,Bachelor,STEM,21,100-500,Pvt Ltd,1,52
+11894,city_103,0.92,Female,Masters,STEM,15,500-999,Funded Startup,1,15
+11908,city_103,0.92,Male,Bachelor,STEM,21,50-99,Public Sector,3,110
+12159,city_71,0.884,prefer not to say,Bachelor,STEM,15,<10,Other,3,286
+12164,city_21,0.624,Male,Bachelor,STEM,11,10000+,Pvt Ltd,0,85
+12188,city_21,0.624,Male,Bachelor,STEM,16,<10,Early Stage Startup,4,103
+12200,city_102,0.804,Other,Bachelor,STEM,18,50-99,Pvt Ltd,3,37
+12216,city_16,0.91,Male,Bachelor,STEM,21,50-99,Pvt Ltd,1,61
+12224,city_103,0.92,Male,Masters,STEM,21,100-500,Pvt Ltd,5,59
+12256,city_36,0.893,Male,Bachelor,STEM,13,50-99,Pvt Ltd,1,50
+12358,city_143,0.74,Male,Bachelor,STEM,15,500-999,Other,2,77
+12598,city_21,0.624,prefer not to say,Masters,STEM,12,500-999,Pvt Ltd,3,110
+12634,city_128,0.527,Male,Bachelor,STEM,14,<10,Pvt Ltd,2,114
+12757,city_16,0.91,Male,Bachelor,STEM,21,500-999,Funded Startup,2,20
+12803,city_103,0.92,prefer not to say,Bachelor,STEM,16,1000-4999,Public Sector,2,146
+12930,city_73,0.754,prefer not to say,Bachelor,STEM,17,50-99,Pvt Ltd,4,83
+12964,city_21,0.624,prefer not to say,Masters,STEM,17,10000+,Pvt Ltd,3,134
+13099,city_71,0.884,Male,Masters,STEM,16,50-99,Pvt Ltd,2,26
+13122,city_16,0.91,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,68
+13125,city_16,0.91,Male,Bachelor,STEM,12,<10,Pvt Ltd,5,64
+13234,city_19,0.682,prefer not to say,Bachelor,STEM,12,50-99,Early Stage Startup,5,25
+13261,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,14
+13308,city_21,0.624,prefer not to say,Bachelor,STEM,11,1000-4999,Pvt Ltd,1,25
+13328,city_21,0.624,Male,Bachelor,STEM,14,10000+,Pvt Ltd,1,78
+13376,city_145,0.555,prefer not to say,Masters,STEM,19,10000+,Pvt Ltd,2,57
+13399,city_21,0.624,Male,Masters,Business Degree,19,10000+,Pvt Ltd,5,174
+13438,city_160,0.92,Male,Bachelor,STEM,11,<10,Other,0,166
+13474,city_21,0.624,Male,Masters,STEM,14,1000-4999,Pvt Ltd,4,56
+13577,city_11,0.55,Male,Bachelor,STEM,16,50-99,Pvt Ltd,3,18
+13749,city_114,0.926,Male,Masters,Humanities,21,<10,Pvt Ltd,4,26
+13915,city_16,0.91,Male,Phd,STEM,21,100-500,Pvt Ltd,2,20
+13921,city_103,0.92,prefer not to say,Masters,Business Degree,15,10000+,Pvt Ltd,5,6
+13950,city_103,0.92,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,30
+13994,city_12,0.64,Male,Bachelor,STEM,21,50-99,Pvt Ltd,0,40
+14007,city_41,0.827,Male,Bachelor,STEM,16,100-500,NGO,1,17
+14043,city_158,0.766,prefer not to say,Bachelor,STEM,15,50-99,Pvt Ltd,5,97
+14050,city_21,0.624,prefer not to say,Bachelor,STEM,12,500-999,Funded Startup,2,3
+14079,city_103,0.92,Male,Bachelor,STEM,11,100-500,Funded Startup,2,34
+14225,city_103,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,5,56
+14313,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,2,134
+14371,city_74,0.579,Male,Bachelor,STEM,14,100-500,Early Stage Startup,1,19
+14521,city_61,0.913,Male,Phd,STEM,21,100-500,Pvt Ltd,1,43
+14523,city_145,0.555,prefer not to say,Bachelor,STEM,11,100-500,Pvt Ltd,1,124
+14943,city_16,0.91,Male,Masters,STEM,12,1000-4999,Pvt Ltd,5,36
+15010,city_18,0.824,Male,Bachelor,STEM,12,500-999,Pvt Ltd,5,28
+15089,city_114,0.926,Male,Masters,STEM,21,500-999,Pvt Ltd,2,57
+15099,city_103,0.92,Male,Masters,STEM,21,500-999,Pvt Ltd,2,97
+15154,city_78,0.579,Male,Bachelor,STEM,11,50-99,Pvt Ltd,1,10
+15193,city_103,0.92,Male,Bachelor,STEM,18,50-99,Funded Startup,1,147
+15208,city_16,0.91,Male,Bachelor,STEM,15,1000-4999,Pvt Ltd,5,66
+15213,city_103,0.92,Male,Bachelor,STEM,13,10000+,Pvt Ltd,1,94
+15239,city_21,0.624,prefer not to say,Bachelor,STEM,12,50-99,Pvt Ltd,5,14
+15694,city_114,0.926,prefer not to say,Masters,STEM,21,1000-4999,Pvt Ltd,1,16
+15791,city_28,0.939,prefer not to say,Bachelor,STEM,12,10000+,Pvt Ltd,5,64
+16003,city_160,0.92,prefer not to say,Bachelor,STEM,21,50-99,Pvt Ltd,5,72
+16019,city_103,0.92,prefer not to say,Bachelor,STEM,13,10000+,Pvt Ltd,4,10
+16105,city_103,0.92,Male,Bachelor,STEM,19,100-500,Pvt Ltd,1,57
+16109,city_160,0.92,Female,Bachelor,STEM,11,50-99,Pvt Ltd,5,74
+16194,city_103,0.92,Male,Masters,STEM,17,100-500,Pvt Ltd,4,2
+16259,city_165,0.903,Male,Bachelor,STEM,12,<10,NGO,3,54
+16297,city_21,0.624,prefer not to say,Masters,No Major,21,1000-4999,Pvt Ltd,1,72
+16516,city_21,0.624,Female,Bachelor,STEM,12,50-99,Pvt Ltd,2,94
+16735,city_114,0.926,Male,Phd,STEM,21,50-99,Pvt Ltd,2,28
+16739,city_16,0.91,Male,Masters,STEM,14,50-99,Early Stage Startup,4,19
+16951,city_160,0.92,Male,Masters,STEM,21,50-99,NGO,5,13
+16990,city_103,0.92,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,97
+17232,city_114,0.926,Male,Bachelor,STEM,11,<10,Early Stage Startup,0,3
+17588,city_114,0.926,Female,Phd,STEM,17,100-500,Pvt Ltd,3,156
+17622,city_21,0.624,prefer not to say,Bachelor,STEM,13,10000+,Pvt Ltd,1,136
+17741,city_21,0.624,Male,Masters,STEM,19,100-500,Pvt Ltd,5,48
+17757,city_21,0.624,prefer not to say,Masters,STEM,11,10000+,Other,1,16
+17815,city_16,0.91,prefer not to say,Not provided,Other,21,<10,Pvt Ltd,2,163
+17877,city_16,0.91,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,57
+17931,city_36,0.893,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,28
+17994,city_103,0.92,Male,Bachelor,STEM,15,100-500,Pvt Ltd,4,75
+18221,city_61,0.913,prefer not to say,Masters,STEM,12,50-99,Other,2,158
+18234,city_103,0.92,Female,Masters,STEM,21,100-500,Funded Startup,2,112
+18318,city_21,0.624,Male,Masters,STEM,21,10000+,Pvt Ltd,5,11
+18508,city_28,0.939,Male,Masters,STEM,15,10000+,Pvt Ltd,5,7
+18577,city_21,0.624,prefer not to say,Masters,STEM,12,100-500,Pvt Ltd,2,62
+18578,city_162,0.767,Male,Bachelor,Humanities,21,100-500,Pvt Ltd,5,26
+18584,city_21,0.624,Male,Bachelor,STEM,11,10000+,Pvt Ltd,5,7
+18885,city_67,0.855,Male,Bachelor,STEM,21,10000+,Other,1,39
+19330,city_75,0.939,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,20
+19382,city_103,0.92,Male,Bachelor,STEM,15,50-99,Pvt Ltd,3,3
+19405,city_11,0.55,Male,Bachelor,STEM,16,50-99,Pvt Ltd,5,42
+19432,city_21,0.624,prefer not to say,Masters,STEM,16,10000+,Pvt Ltd,5,21
+19436,city_21,0.624,prefer not to say,Bachelor,STEM,17,5000-9999,Pvt Ltd,2,47
+19452,city_21,0.624,Male,Masters,STEM,21,5000-9999,Pvt Ltd,5,72
+19482,city_16,0.91,Male,Masters,STEM,21,50-99,Pvt Ltd,5,24
+19588,city_21,0.624,Male,Masters,STEM,13,10000+,Pvt Ltd,1,107
+19675,city_21,0.624,prefer not to say,Masters,STEM,11,10000+,Pvt Ltd,1,17
+19711,city_67,0.855,Male,Bachelor,STEM,21,10000+,Pvt Ltd,4,138
+19875,city_21,0.624,Male,Bachelor,STEM,13,10000+,Pvt Ltd,5,88
+19891,city_114,0.926,Male,Masters,STEM,21,10000+,Pvt Ltd,5,42
+20033,city_103,0.92,Other,Bachelor,STEM,13,1000-4999,Pvt Ltd,1,25
+20112,city_103,0.92,Female,Phd,STEM,21,5000-9999,NGO,1,104
+20181,city_103,0.92,prefer not to say,Bachelor,STEM,18,50-99,Pvt Ltd,1,10
+20225,city_64,0.666,prefer not to say,Bachelor,STEM,11,50-99,Pvt Ltd,2,84
+20293,city_16,0.91,prefer not to say,Phd,STEM,21,10000+,Pvt Ltd,5,35
+20355,city_21,0.624,prefer not to say,Bachelor,STEM,11,100-500,Pvt Ltd,2,106
+20388,city_102,0.804,Male,Masters,STEM,21,100-500,Pvt Ltd,5,17
+20421,city_10,0.895,prefer not to say,Masters,STEM,21,10000+,Pvt Ltd,4,16
+20458,city_36,0.893,prefer not to say,Bachelor,STEM,14,100-500,Early Stage Startup,1,15
+20521,city_21,0.624,Male,Bachelor,STEM,12,50-99,Pvt Ltd,1,98
+20743,city_50,0.896,Male,Masters,STEM,15,10000+,Pvt Ltd,5,23
+20820,city_114,0.926,prefer not to say,Bachelor,STEM,16,100-500,Pvt Ltd,5,8
+20981,city_61,0.913,Male,Bachelor,STEM,21,<10,Pvt Ltd,2,3
+21170,city_75,0.939,Male,Bachelor,STEM,15,100-500,Pvt Ltd,3,14
+21171,city_103,0.92,Male,Masters,Arts,21,50-99,Pvt Ltd,2,11
+21248,city_21,0.624,prefer not to say,Bachelor,STEM,18,10000+,Pvt Ltd,5,15
+21274,city_103,0.92,prefer not to say,Bachelor,STEM,21,10000+,Pvt Ltd,2,145
+21316,city_11,0.55,Male,Masters,STEM,14,100-500,NGO,1,166
+21325,city_136,0.897,Male,Masters,STEM,19,500-999,Pvt Ltd,4,88
+21360,city_21,0.624,Male,Bachelor,STEM,11,1000-4999,Pvt Ltd,3,22
+21430,city_21,0.624,Male,Masters,STEM,17,50-99,Pvt Ltd,2,123
+21438,city_16,0.91,Male,Bachelor,STEM,21,10000+,Pvt Ltd,2,9
+21442,city_21,0.624,Male,Bachelor,STEM,11,50-99,Funded Startup,1,206
+21556,city_21,0.624,Female,Bachelor,STEM,11,10000+,Pvt Ltd,1,51
+21600,city_21,0.624,Male,Bachelor,STEM,12,<10,Funded Startup,1,47
+21616,city_21,0.624,prefer not to say,Bachelor,Other,12,50-99,Pvt Ltd,5,25
+21768,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,5,22
+21769,city_118,0.722,Female,Masters,STEM,21,<10,Pvt Ltd,5,70
+21778,city_103,0.92,Other,Bachelor,STEM,21,10000+,Pvt Ltd,5,15
+21906,city_160,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,3,7
+21941,city_73,0.754,Male,Bachelor,STEM,13,100-500,Pvt Ltd,3,47
+21950,city_100,0.887,Male,Not provided,Other,17,500-999,Pvt Ltd,1,45
+22197,city_61,0.913,prefer not to say,Not provided,Other,19,1000-4999,Pvt Ltd,5,23
+22357,city_103,0.92,Male,Bachelor,STEM,17,50-99,Funded Startup,1,32
+22374,city_21,0.624,prefer not to say,Masters,STEM,11,1000-4999,Pvt Ltd,2,10
+22387,city_70,0.698,Male,Bachelor,STEM,12,50-99,Other,3,184
+22401,city_21,0.624,Male,Bachelor,STEM,11,10000+,Pvt Ltd,2,148
+22412,city_155,0.556,prefer not to say,Bachelor,STEM,16,<10,Early Stage Startup,1,26
+22448,city_43,0.516,Male,Bachelor,STEM,13,<10,Early Stage Startup,5,36
+22548,city_165,0.903,Male,Bachelor,Other,16,100-500,Other,0,174
+22554,city_21,0.624,Male,Masters,STEM,21,100-500,Pvt Ltd,2,43
+22862,city_65,0.802,Male,Bachelor,STEM,14,5000-9999,Pvt Ltd,5,130
+22909,city_136,0.897,Male,Masters,STEM,17,1000-4999,Pvt Ltd,5,92
+22927,city_61,0.913,Male,Bachelor,STEM,15,<10,Pvt Ltd,3,9
+22979,city_138,0.836,prefer not to say,Bachelor,STEM,19,10000+,Pvt Ltd,0,13
+23019,city_90,0.698,Male,Bachelor,STEM,12,50-99,Other,4,97
+23103,city_103,0.92,Male,Bachelor,STEM,17,<10,Pvt Ltd,5,35
+23137,city_16,0.91,Male,Bachelor,STEM,11,50-99,Public Sector,2,24
+23299,city_103,0.92,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,23
+23310,city_21,0.624,Male,Masters,STEM,17,10000+,Pvt Ltd,3,90
+23322,city_103,0.92,Male,Bachelor,STEM,15,10000+,Pvt Ltd,5,31
+23349,city_50,0.896,Male,Masters,Other,21,1000-4999,Public Sector,1,308
+23373,city_136,0.897,prefer not to say,Masters,STEM,21,10000+,Pvt Ltd,5,20
+23445,city_21,0.624,Male,Masters,STEM,14,50-99,Pvt Ltd,4,8
+23481,city_103,0.92,Male,Masters,STEM,21,10000+,Pvt Ltd,5,43
+23495,city_11,0.55,prefer not to say,Masters,STEM,16,50-99,Pvt Ltd,5,12
+23622,city_114,0.926,Male,Phd,STEM,21,10000+,Pvt Ltd,4,25
+23830,city_103,0.92,Female,Masters,STEM,17,1000-4999,Pvt Ltd,5,24
+23841,city_144,0.84,prefer not to say,Phd,STEM,21,1000-4999,Pvt Ltd,1,210
+23989,city_103,0.92,Male,Bachelor,STEM,15,10000+,Pvt Ltd,1,18
+24032,city_21,0.624,Male,Bachelor,STEM,19,100-500,Pvt Ltd,5,50
+24091,city_123,0.738,Male,Masters,STEM,13,1000-4999,Public Sector,5,66
+24109,city_104,0.924,Male,Masters,STEM,15,1000-4999,Pvt Ltd,4,116
+24227,city_136,0.897,prefer not to say,Masters,STEM,15,1000-4999,Other,3,45
+24307,city_21,0.624,Male,Bachelor,STEM,11,500-999,Pvt Ltd,1,26
+24333,city_21,0.624,Male,Bachelor,STEM,12,1000-4999,Pvt Ltd,5,85
+24496,city_21,0.624,Male,Bachelor,STEM,12,500-999,Pvt Ltd,5,163
+24546,city_16,0.91,Male,Masters,STEM,15,50-99,Pvt Ltd,0,40
+24859,city_102,0.804,Male,Phd,STEM,21,100-500,Public Sector,5,28
+24882,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,1,10
+24886,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,1,102
+25000,city_45,0.89,Male,Bachelor,STEM,21,100-500,Pvt Ltd,2,6
+25032,city_54,0.856,prefer not to say,Bachelor,STEM,12,50-99,Pvt Ltd,5,214
+25053,city_73,0.754,prefer not to say,Bachelor,STEM,21,500-999,Pvt Ltd,4,47
+25067,city_101,0.558,Male,Bachelor,STEM,11,<10,Pvt Ltd,5,68
+25119,city_16,0.91,Male,Bachelor,STEM,21,50-99,NGO,1,40
+25124,city_67,0.855,Male,Bachelor,STEM,11,5000-9999,Pvt Ltd,2,76
+25386,city_21,0.624,Male,Masters,STEM,15,50-99,Pvt Ltd,5,204
+25523,city_103,0.92,Male,Bachelor,STEM,15,10000+,Pvt Ltd,4,56
+25676,city_114,0.926,prefer not to say,Bachelor,STEM,16,500-999,Pvt Ltd,0,48
+25820,city_103,0.92,Male,Bachelor,Humanities,19,10000+,Pvt Ltd,1,145
+25880,city_103,0.92,Male,Bachelor,STEM,21,100-500,Pvt Ltd,5,38
+25962,city_165,0.903,prefer not to say,Masters,Humanities,19,<10,Funded Startup,2,23
+25987,city_103,0.92,Other,Bachelor,STEM,19,10000+,Public Sector,4,52
+26115,city_41,0.827,Male,Bachelor,STEM,21,50-99,Pvt Ltd,5,65
+26257,city_160,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,5,214
+26261,city_73,0.754,Male,Masters,STEM,15,1000-4999,Public Sector,5,7
+26294,city_21,0.624,Male,Masters,STEM,15,50-99,Funded Startup,1,24
+26295,city_61,0.913,Female,Bachelor,STEM,12,5000-9999,Other,1,86
+26306,city_136,0.897,Male,Masters,STEM,21,<10,Pvt Ltd,3,9
+26316,city_21,0.624,Male,Masters,STEM,14,5000-9999,Pvt Ltd,1,87
+26331,city_21,0.624,Male,Bachelor,STEM,11,50-99,Pvt Ltd,1,67
+26351,city_16,0.91,Male,Bachelor,STEM,14,5000-9999,Public Sector,5,28
+26588,city_114,0.926,Male,Bachelor,STEM,11,10000+,Pvt Ltd,1,218
+26641,city_103,0.92,Male,Bachelor,STEM,17,1000-4999,Pvt Ltd,4,192
+26667,city_103,0.92,Male,Bachelor,STEM,16,10000+,Pvt Ltd,2,17
+26758,city_21,0.624,Male,Bachelor,STEM,13,10000+,Pvt Ltd,3,21
+26767,city_21,0.624,Male,Masters,STEM,11,500-999,Funded Startup,2,147
+26923,city_16,0.91,Male,Bachelor,STEM,11,10000+,Pvt Ltd,5,51
+26988,city_75,0.939,Male,Bachelor,STEM,17,10000+,Public Sector,5,57
+27027,city_123,0.738,Male,Masters,STEM,15,10000+,Pvt Ltd,1,17
+27051,city_103,0.92,Male,Bachelor,STEM,12,500-999,Other,1,58
+27094,city_16,0.91,Female,Bachelor,STEM,20,50-99,Pvt Ltd,1,4
+27116,city_103,0.92,Male,Bachelor,STEM,16,10000+,Pvt Ltd,4,76
+27160,city_16,0.91,prefer not to say,Masters,STEM,21,100-500,NGO,4,65
+27203,city_102,0.804,Male,Masters,STEM,21,50-99,Pvt Ltd,1,21
+27260,city_16,0.91,Male,Masters,STEM,21,500-999,Pvt Ltd,1,95
+27284,city_103,0.92,Male,Bachelor,STEM,19,500-999,Funded Startup,4,7
+27293,city_75,0.939,Male,Primary School,Other,13,<10,Funded Startup,4,32
+27296,city_21,0.624,Male,Bachelor,STEM,15,100-500,Pvt Ltd,1,134
+27313,city_16,0.91,Male,Bachelor,STEM,20,1000-4999,Pvt Ltd,3,280
+27320,city_100,0.887,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,102
+27473,city_103,0.92,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,9
+27655,city_114,0.926,Male,Masters,STEM,21,5000-9999,Pvt Ltd,1,116
+27660,city_114,0.926,Female,Bachelor,STEM,11,100-500,Pvt Ltd,2,30
+27807,city_21,0.624,Male,Bachelor,STEM,12,50-99,Pvt Ltd,1,77
+27955,city_50,0.896,Male,Bachelor,STEM,14,100-500,Pvt Ltd,5,116
+28127,city_21,0.624,Female,Bachelor,STEM,15,10000+,Pvt Ltd,1,5
+28243,city_103,0.92,Male,Bachelor,STEM,13,10000+,Pvt Ltd,3,46
+28425,city_103,0.92,Female,Bachelor,No Major,15,50-99,Funded Startup,2,48
+28438,city_162,0.767,Male,Bachelor,STEM,13,1000-4999,Pvt Ltd,5,68
+28483,city_53,0.74,prefer not to say,Bachelor,STEM,13,10000+,Pvt Ltd,1,63
+28501,city_61,0.913,Male,Primary School,Other,11,50-99,Funded Startup,1,81
+28519,city_16,0.91,Male,Masters,STEM,21,500-999,Pvt Ltd,1,34
+28538,city_103,0.92,Female,Bachelor,STEM,21,5000-9999,Pvt Ltd,5,51
+28611,city_103,0.92,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,5,61
+28621,city_21,0.624,Male,Bachelor,Other,11,10000+,Pvt Ltd,1,21
+28625,city_165,0.903,Male,Bachelor,STEM,11,100-500,Funded Startup,2,258
+28653,city_21,0.624,Male,Bachelor,STEM,15,500-999,Pvt Ltd,5,29
+28673,city_103,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,1,20
+28674,city_160,0.92,Male,Bachelor,Humanities,21,50-99,Pvt Ltd,5,33
+28760,city_103,0.92,Male,Bachelor,STEM,20,5000-9999,Pvt Ltd,1,50
+28823,city_89,0.925,prefer not to say,Bachelor,STEM,13,100-500,Pvt Ltd,5,292
+28826,city_21,0.624,prefer not to say,Bachelor,STEM,14,500-999,Pvt Ltd,1,28
+29064,city_21,0.624,Male,Bachelor,STEM,15,1000-4999,Pvt Ltd,1,14
+29085,city_103,0.92,Male,Bachelor,STEM,17,50-99,Pvt Ltd,5,41
+29107,city_103,0.92,Male,Bachelor,STEM,21,100-500,Public Sector,1,107
+29141,city_64,0.666,Male,Bachelor,STEM,14,<10,Pvt Ltd,1,98
+29222,city_21,0.624,Male,Bachelor,STEM,21,100-500,Pvt Ltd,1,122
+29307,city_138,0.836,Male,Bachelor,STEM,16,100-500,Pvt Ltd,4,39
+29377,city_114,0.926,Male,Bachelor,STEM,14,50-99,Pvt Ltd,0,22
+29497,city_103,0.92,Male,Masters,STEM,21,10000+,Public Sector,5,87
+29611,city_21,0.624,prefer not to say,Bachelor,STEM,16,<10,Pvt Ltd,5,134
+29850,city_64,0.666,Male,Bachelor,STEM,12,500-999,Pvt Ltd,2,15
+30064,city_21,0.624,Male,Bachelor,STEM,12,10000+,Pvt Ltd,0,35
+30081,city_103,0.92,Male,Masters,STEM,21,50-99,Funded Startup,1,48
+30225,city_16,0.91,Male,Bachelor,STEM,21,50-99,Pvt Ltd,3,167
+30230,city_160,0.92,Male,Masters,STEM,21,100-500,Pvt Ltd,1,258
+30257,city_74,0.579,Male,Bachelor,STEM,11,50-99,Pvt Ltd,5,107
+30404,city_103,0.92,Male,Bachelor,STEM,21,50-99,Pvt Ltd,5,50
+30524,city_160,0.92,prefer not to say,Bachelor,STEM,16,50-99,Pvt Ltd,1,61
+30589,city_114,0.926,Male,Bachelor,STEM,16,50-99,Pvt Ltd,3,196
+30703,city_114,0.926,Male,Bachelor,STEM,17,50-99,Pvt Ltd,5,114
+30757,city_21,0.624,prefer not to say,Masters,STEM,14,50-99,Pvt Ltd,4,44
+30786,city_103,0.92,Male,Bachelor,STEM,15,1000-4999,Public Sector,3,88
+30790,city_21,0.624,Male,Bachelor,STEM,12,500-999,Pvt Ltd,2,10
+30999,city_103,0.92,Male,Masters,STEM,14,5000-9999,Pvt Ltd,3,55
+31216,city_114,0.926,Male,Masters,STEM,11,1000-4999,Public Sector,1,22
+31289,city_103,0.92,Male,Bachelor,STEM,14,50-99,Pvt Ltd,5,66
+31306,city_103,0.92,prefer not to say,Masters,Business Degree,21,100-500,Public Sector,5,40
+31359,city_103,0.92,Male,Bachelor,Humanities,15,<10,Funded Startup,1,40
+31420,city_103,0.92,Male,Bachelor,STEM,14,50-99,Public Sector,3,6
+31454,city_27,0.848,Male,Bachelor,STEM,15,50-99,Other,4,336
+31542,city_103,0.92,prefer not to say,Masters,STEM,18,500-999,Pvt Ltd,5,58
+31599,city_16,0.91,Male,Bachelor,STEM,21,100-500,Pvt Ltd,2,49
+31788,city_160,0.92,Male,Bachelor,STEM,12,100-500,Pvt Ltd,3,18
+31851,city_160,0.92,prefer not to say,Bachelor,STEM,11,10000+,Pvt Ltd,5,122
+32076,city_11,0.55,Male,Bachelor,STEM,11,50-99,Pvt Ltd,1,40
+32306,city_21,0.624,Female,Bachelor,STEM,14,10000+,Pvt Ltd,1,14
+32330,city_84,0.698,Male,Masters,STEM,13,50-99,Pvt Ltd,5,122
+32454,city_103,0.92,prefer not to say,Bachelor,STEM,19,100-500,Pvt Ltd,1,105
+32473,city_16,0.91,Male,Bachelor,STEM,21,10000+,Pvt Ltd,5,4
+32500,city_21,0.624,prefer not to say,Masters,STEM,18,5000-9999,NGO,4,80
+32631,city_103,0.92,Male,Phd,STEM,21,1000-4999,Public Sector,5,5
+32711,city_46,0.762,Male,Bachelor,STEM,13,10000+,Pvt Ltd,5,11
+32757,city_160,0.92,Male,Bachelor,STEM,21,1000-4999,Pvt Ltd,4,28
+32782,city_21,0.624,Male,Masters,STEM,17,10000+,Other,1,26
+32869,city_103,0.92,Male,Bachelor,STEM,11,1000-4999,Public Sector,5,92
+33055,city_165,0.903,Male,Bachelor,STEM,14,10000+,Pvt Ltd,3,40
+33254,city_160,0.92,Female,Masters,STEM,21,50-99,Pvt Ltd,5,120

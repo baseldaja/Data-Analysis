@@ -1,0 +1,449 @@
+enrollee_id,city,city_development_index,gender,education_level,major_discipline,experience,company_size,company_type,last_new_job,training_hours
+9,city_16,0.91,Male,Bachelor,STEM,21,0,Other,5,2
+32,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,2,180
+79,city_100,0.887,Male,Bachelor,STEM,21,0,Other,4,42
+236,city_103,0.92,Male,Bachelor,STEM,14,0,Other,1,122
+430,city_160,0.92,prefer not to say,Masters,STEM,21,0,Other,3,46
+516,city_103,0.92,Male,Bachelor,Other,21,0,Other,5,48
+565,city_103,0.92,Male,Bachelor,Business Degree,19,0,Other,5,100
+593,city_57,0.866,Male,Bachelor,STEM,17,0,Other,1,10
+618,city_160,0.92,Male,Bachelor,Business Degree,21,0,Other,5,31
+659,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,178
+717,city_103,0.92,Male,Bachelor,STEM,21,0,Pvt Ltd,5,41
+819,city_103,0.92,Male,Bachelor,STEM,21,0,Other,3,27
+943,city_150,0.698,prefer not to say,Not provided,Other,21,0,Other,1,83
+964,city_46,0.762,Male,Bachelor,STEM,19,0,Other,1,64
+989,city_103,0.92,prefer not to say,Bachelor,STEM,14,0,Other,5,25
+1066,city_16,0.91,Male,Masters,STEM,15,0,Other,5,23
+1144,city_103,0.92,Male,Bachelor,STEM,11,0,Other,1,15
+1196,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,1,77
+1204,city_103,0.92,Male,Bachelor,STEM,21,0,Public Sector,1,140
+1223,city_160,0.92,prefer not to say,Bachelor,STEM,21,0,Other,1,134
+1242,city_160,0.92,Male,Bachelor,STEM,21,0,Other,0,14
+1261,city_73,0.754,Male,Bachelor,STEM,12,0,Other,2,100
+1330,city_103,0.92,Male,Bachelor,No Major,21,0,Other,2,51
+1448,city_175,0.776,Female,Bachelor,STEM,17,0,Other,5,13
+1693,city_75,0.939,Male,Bachelor,STEM,11,0,Other,2,18
+1755,city_75,0.939,Male,Bachelor,STEM,21,0,Other,5,32
+1785,city_21,0.624,Male,Bachelor,STEM,21,0,Other,5,20
+1811,city_103,0.92,Male,Bachelor,STEM,17,0,Other,5,96
+1878,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,142
+1925,city_21,0.624,Male,Bachelor,STEM,18,0,Other,5,12
+1957,city_160,0.92,prefer not to say,Bachelor,STEM,12,0,Other,1,65
+1981,city_103,0.92,prefer not to say,Bachelor,STEM,18,0,Other,1,153
+2015,city_103,0.92,Male,Bachelor,STEM,17,0,Other,1,48
+2058,city_102,0.804,Male,Masters,STEM,16,0,Other,2,12
+2307,city_105,0.794,Male,Masters,STEM,11,0,Other,1,18
+2477,city_21,0.624,Male,Masters,Other,11,0,Other,5,77
+2601,city_16,0.91,Male,Bachelor,STEM,21,0,Other,2,152
+3044,city_136,0.897,Male,Masters,STEM,21,0,Other,5,10
+3229,city_160,0.92,Male,Bachelor,STEM,12,0,Other,1,10
+3263,city_103,0.92,Male,Masters,STEM,21,0,Other,1,22
+3417,city_21,0.624,Male,Bachelor,STEM,19,0,Other,1,45
+3525,city_103,0.92,Female,Bachelor,Other,21,0,Other,1,68
+3604,city_16,0.91,Male,Bachelor,No Major,16,0,Other,5,95
+3649,city_103,0.92,Male,Bachelor,Business Degree,21,0,Public Sector,5,43
+3662,city_160,0.92,Male,Bachelor,STEM,21,0,Other,2,206
+3715,city_16,0.91,Male,Bachelor,STEM,21,0,Other,4,232
+3718,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,46
+3736,city_160,0.92,Male,Bachelor,STEM,21,0,Other,3,48
+3822,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,184
+4064,city_160,0.92,prefer not to say,Bachelor,STEM,18,0,Other,1,198
+4065,city_103,0.92,Male,Bachelor,STEM,14,0,Other,3,21
+4176,city_160,0.92,Male,Bachelor,STEM,21,0,Other,2,20
+4238,city_162,0.767,Male,Bachelor,STEM,15,0,Other,1,60
+4265,city_160,0.92,Male,Bachelor,STEM,11,0,Other,3,51
+4367,city_103,0.92,Male,Bachelor,STEM,14,0,Other,1,70
+4418,city_160,0.92,Male,Masters,STEM,21,0,Other,5,77
+4419,city_65,0.802,Female,Bachelor,STEM,11,0,Other,1,48
+4427,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,88
+4476,city_101,0.558,Male,Bachelor,No Major,15,0,Other,5,20
+4498,city_158,0.766,Male,Bachelor,STEM,21,0,Other,1,28
+4593,city_99,0.915,Male,Masters,STEM,21,0,Other,3,90
+4699,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,12
+4747,city_65,0.802,Male,Bachelor,STEM,21,0,Other,5,75
+4787,city_103,0.92,Male,Masters,STEM,21,0,Other,5,55
+4935,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,144
+4981,city_73,0.754,Male,Bachelor,STEM,13,0,Other,1,128
+5143,city_142,0.727,Male,Bachelor,STEM,17,0,Other,5,124
+5148,city_19,0.682,prefer not to say,Bachelor,STEM,20,0,Other,1,29
+5163,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,3
+5177,city_103,0.92,prefer not to say,Masters,STEM,21,0,Other,4,87
+5318,city_75,0.939,Male,Bachelor,STEM,15,0,Other,5,50
+5433,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,21
+5494,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,59
+5520,city_136,0.897,prefer not to say,Masters,STEM,21,0,Other,0,85
+5679,city_103,0.92,Male,Bachelor,STEM,11,0,Pvt Ltd,3,248
+5690,city_67,0.855,Male,Bachelor,STEM,11,0,Other,4,109
+5830,city_103,0.92,Male,Masters,STEM,13,0,Other,1,116
+5867,city_74,0.579,Male,Bachelor,STEM,11,0,Other,1,34
+6016,city_103,0.92,Male,Bachelor,STEM,21,0,Other,3,7
+6020,city_103,0.92,Male,Bachelor,Other,20,0,Other,4,44
+6029,city_103,0.92,Male,Masters,Arts,21,0,Other,1,170
+6219,city_160,0.92,Male,Bachelor,STEM,21,0,Other,1,88
+6227,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,28
+6231,city_72,0.795,Male,Bachelor,STEM,11,0,Other,2,28
+6284,city_116,0.743,Male,Masters,STEM,11,0,Other,1,28
+6321,city_162,0.767,prefer not to say,Masters,STEM,15,0,Other,5,46
+6438,city_160,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,118
+6494,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,41
+6520,city_160,0.92,Male,Masters,STEM,21,0,Other,5,74
+6644,city_103,0.92,Male,Bachelor,Other,21,0,Other,4,20
+6846,city_90,0.698,Male,Masters,STEM,14,0,Other,2,10
+6896,city_21,0.624,Female,Bachelor,STEM,18,0,Other,5,88
+7172,city_103,0.92,Male,Masters,Other,21,0,Other,5,25
+7206,city_103,0.92,Male,Bachelor,No Major,21,0,Other,5,32
+7264,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,2,110
+7279,city_103,0.92,Male,Bachelor,STEM,15,0,Other,5,89
+7293,city_103,0.92,Male,Bachelor,STEM,19,0,Other,5,49
+7309,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,100
+7326,city_75,0.939,Male,Bachelor,STEM,21,0,Other,5,8
+7328,city_103,0.92,Male,Bachelor,STEM,20,0,Other,5,26
+7330,city_103,0.92,Male,Masters,Humanities,21,0,Other,5,32
+7368,city_103,0.92,Male,Bachelor,Humanities,21,0,Other,1,39
+7418,city_103,0.92,Male,Bachelor,STEM,21,0,Other,3,94
+7585,city_103,0.92,prefer not to say,Bachelor,STEM,14,0,Other,3,14
+7610,city_21,0.624,Male,Bachelor,Business Degree,21,0,Other,2,31
+7625,city_21,0.624,Male,Bachelor,STEM,21,0,Other,1,22
+7648,city_103,0.92,Male,Bachelor,STEM,12,0,Other,3,222
+7675,city_160,0.92,Male,Bachelor,STEM,19,0,Other,2,96
+7717,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,5,46
+7888,city_100,0.887,Male,Bachelor,STEM,14,0,Other,1,15
+8662,city_64,0.666,Male,Bachelor,STEM,14,0,Other,2,50
+8665,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,2,47
+8700,city_145,0.555,Male,Bachelor,STEM,21,0,Other,5,7
+8723,city_103,0.92,prefer not to say,Masters,STEM,13,0,Other,5,38
+8832,city_103,0.92,prefer not to say,Masters,Business Degree,20,0,Other,5,14
+8834,city_103,0.92,Female,Masters,STEM,21,0,Other,2,38
+8925,city_98,0.949,Other,Bachelor,STEM,11,0,Other,2,15
+8949,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,36
+9012,city_116,0.743,Male,Masters,STEM,14,0,Pvt Ltd,1,120
+9074,city_160,0.92,Male,Bachelor,STEM,21,0,Other,3,48
+9141,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,6
+9181,city_21,0.624,prefer not to say,Bachelor,STEM,21,0,Other,5,69
+9581,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,84
+9594,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,78
+9685,city_55,0.739,prefer not to say,Masters,STEM,19,0,Other,5,13
+9722,city_21,0.624,Male,Bachelor,STEM,15,0,Other,2,55
+9738,city_21,0.624,prefer not to say,Bachelor,STEM,13,0,Other,3,77
+9739,city_94,0.698,Male,Bachelor,STEM,17,0,Other,5,24
+9743,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,44
+9813,city_103,0.92,Female,Masters,Arts,15,0,Other,1,34
+9863,city_103,0.92,Female,Bachelor,Humanities,21,0,Other,2,44
+9867,city_103,0.92,Male,Bachelor,Humanities,21,0,Other,3,22
+9928,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,64
+9958,city_73,0.754,prefer not to say,Bachelor,Business Degree,11,0,Other,4,30
+9969,city_103,0.92,Male,Masters,STEM,12,0,Other,1,1
+10005,city_103,0.92,Male,Bachelor,STEM,14,0,Other,5,192
+10073,city_103,0.92,Male,Bachelor,STEM,21,0,Other,3,7
+10118,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,48
+10135,city_103,0.92,Male,Bachelor,Humanities,21,0,Other,5,314
+10181,city_100,0.887,Male,Bachelor,STEM,11,0,Other,1,107
+10607,city_67,0.855,Male,Masters,STEM,21,0,Other,5,39
+10634,city_83,0.923,Male,Masters,STEM,21,0,Other,5,166
+10750,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,26
+10755,city_11,0.55,prefer not to say,Masters,STEM,18,0,Other,1,268
+10785,city_16,0.91,Male,Bachelor,STEM,21,0,Other,1,56
+10896,city_103,0.92,Male,Masters,STEM,21,0,Other,2,18
+10897,city_103,0.92,Male,Bachelor,STEM,21,0,Other,4,104
+11146,city_103,0.92,Male,Bachelor,Humanities,16,0,Other,0,17
+11199,city_73,0.754,Male,Bachelor,STEM,15,0,Other,4,56
+11247,city_103,0.92,Male,Bachelor,Humanities,21,0,Other,4,69
+11269,city_103,0.92,Female,Masters,STEM,21,0,Other,5,82
+11362,city_103,0.92,Male,Masters,STEM,17,0,Other,3,11
+11430,city_103,0.92,Male,Primary School,Other,12,0,Other,1,70
+11563,city_114,0.926,prefer not to say,Masters,STEM,21,0,Other,5,64
+11595,city_30,0.698,Male,Bachelor,STEM,12,0,Other,3,72
+11611,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,2,27
+11790,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,110
+11898,city_160,0.92,prefer not to say,Bachelor,STEM,20,0,Other,3,70
+11947,city_21,0.624,Male,Phd,STEM,21,0,Other,5,36
+12044,city_71,0.884,prefer not to say,Masters,STEM,12,0,Other,5,19
+12244,city_75,0.939,Male,Bachelor,Humanities,21,0,Other,1,51
+12285,city_103,0.92,Male,Bachelor,STEM,21,0,Other,0,28
+12357,city_173,0.878,Male,Bachelor,STEM,21,0,Other,4,60
+12596,city_100,0.887,Male,Bachelor,STEM,12,0,Other,4,96
+12935,city_21,0.624,Male,Masters,STEM,12,0,Other,1,98
+12937,city_73,0.754,Male,Masters,STEM,17,0,Other,2,10
+12988,city_16,0.91,Male,Bachelor,STEM,21,0,Other,2,18
+13074,city_150,0.698,prefer not to say,Bachelor,STEM,21,0,Other,1,24
+13076,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,4,146
+13105,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,26
+13130,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,27
+13194,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,54
+13237,city_19,0.682,Male,Bachelor,STEM,17,0,Other,1,42
+13312,city_103,0.92,Male,Bachelor,Other,21,0,Other,1,9
+13320,city_103,0.92,Male,Bachelor,No Major,15,0,Other,5,174
+13344,city_103,0.92,Male,Bachelor,STEM,20,0,Other,1,24
+13522,city_21,0.624,Male,Bachelor,STEM,21,0,Other,5,78
+13737,city_57,0.866,Male,Bachelor,STEM,16,0,Other,1,9
+13923,city_136,0.897,Male,Not provided,Other,16,0,Public Sector,3,166
+13935,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,5
+13942,city_16,0.91,Male,Bachelor,STEM,21,0,Other,1,78
+13952,city_160,0.92,Male,Masters,STEM,21,0,Other,5,23
+14006,city_103,0.92,Male,Bachelor,STEM,17,0,Other,1,56
+14237,city_103,0.92,Male,Bachelor,STEM,12,0,Other,1,78
+14316,city_103,0.92,Male,Bachelor,STEM,21,0,Other,4,44
+14351,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,37
+14395,city_103,0.92,Female,Masters,STEM,21,0,Other,2,26
+14604,city_21,0.624,Male,Phd,STEM,21,0,Other,2,16
+14622,city_102,0.804,Male,Masters,STEM,21,0,Other,1,61
+14939,city_103,0.92,Female,Bachelor,STEM,11,0,Other,1,150
+14959,city_102,0.804,Male,Masters,STEM,13,0,Other,2,84
+15013,city_160,0.92,prefer not to say,Not provided,Other,21,0,Other,2,56
+15016,city_152,0.698,Male,Bachelor,STEM,14,0,Other,5,17
+15096,city_21,0.624,Female,Bachelor,STEM,17,0,Other,5,10
+15125,city_103,0.92,Male,Bachelor,STEM,19,0,Other,5,3
+15269,city_83,0.923,Male,Bachelor,STEM,21,0,Other,3,53
+15323,city_103,0.92,Male,Masters,STEM,11,0,Other,2,18
+15346,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,86
+15407,city_90,0.698,Male,Bachelor,STEM,11,0,Other,1,6
+15489,city_143,0.74,prefer not to say,Bachelor,STEM,14,0,Other,0,7
+15533,city_42,0.563,prefer not to say,Not provided,Other,21,0,Other,5,128
+16143,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,10
+16162,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,27
+16181,city_160,0.92,Male,Bachelor,Other,11,0,Other,4,9
+16191,city_91,0.691,Male,Bachelor,STEM,12,0,Other,5,40
+16211,city_103,0.92,Male,Masters,STEM,11,0,Other,4,82
+16262,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,65
+16549,city_67,0.855,Male,Masters,STEM,18,0,Other,2,47
+16620,city_24,0.698,Male,Bachelor,STEM,12,0,Other,5,32
+16757,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,26
+16764,city_16,0.91,prefer not to say,Bachelor,STEM,21,0,Other,2,19
+16791,city_103,0.92,prefer not to say,Bachelor,STEM,14,0,Other,5,140
+16927,city_103,0.92,prefer not to say,Bachelor,Other,17,0,Other,1,24
+17051,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,34
+17146,city_103,0.92,Male,Bachelor,STEM,11,0,Other,1,30
+17215,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,50
+17280,city_24,0.698,Male,Bachelor,STEM,13,0,Other,1,18
+17330,city_90,0.698,Male,Masters,STEM,15,0,Other,1,19
+17344,city_75,0.939,Male,Bachelor,STEM,15,0,Other,5,34
+17459,city_98,0.949,Male,Masters,STEM,21,0,Other,5,48
+17562,city_160,0.92,Male,Bachelor,STEM,21,0,Other,1,80
+17618,city_90,0.698,Male,Masters,STEM,21,0,Other,1,124
+17629,city_57,0.866,Male,Masters,STEM,19,0,Other,3,101
+17674,city_61,0.913,Male,Bachelor,STEM,21,0,Other,5,8
+17678,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,198
+17728,city_103,0.92,Male,Bachelor,STEM,21,0,Other,4,61
+17752,city_103,0.92,Male,Masters,STEM,21,0,Other,5,210
+17758,city_103,0.92,Male,Bachelor,STEM,21,0,Other,2,6
+17808,city_103,0.92,Male,Bachelor,STEM,11,0,Other,5,42
+17839,city_99,0.915,Male,Bachelor,STEM,21,0,Other,1,51
+17863,city_99,0.915,Male,Bachelor,STEM,21,0,Other,5,94
+18002,city_21,0.624,Male,Bachelor,STEM,21,0,Other,1,182
+18031,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,5,35
+18085,city_102,0.804,Male,Bachelor,Other,21,0,Other,1,20
+18217,city_94,0.698,Male,Bachelor,STEM,20,0,Other,0,41
+18284,city_103,0.92,Male,Bachelor,STEM,12,0,Other,3,12
+18441,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,56
+18475,city_100,0.887,Male,Bachelor,STEM,16,0,Other,4,103
+18763,city_57,0.866,Male,Bachelor,STEM,13,0,Other,1,46
+18774,city_21,0.624,Female,Masters,STEM,15,0,Other,1,82
+18783,city_103,0.92,Male,Bachelor,STEM,21,0,Pvt Ltd,5,102
+18809,city_103,0.92,Other,Bachelor,STEM,21,0,Other,5,20
+19144,city_116,0.743,Male,Bachelor,Arts,11,0,Other,1,80
+19150,city_103,0.92,Male,Masters,STEM,21,0,Other,5,6
+19180,city_103,0.92,Male,Masters,STEM,21,0,Other,1,78
+19267,city_103,0.92,Male,Bachelor,Other,15,0,Other,1,116
+19345,city_103,0.92,Male,Bachelor,Business Degree,11,0,Other,2,7
+19354,city_103,0.92,Male,Masters,STEM,21,0,Other,3,8
+19409,city_21,0.624,prefer not to say,Bachelor,STEM,14,0,Other,5,154
+19415,city_126,0.479,prefer not to say,Phd,Humanities,21,0,Other,5,79
+19466,city_21,0.624,Male,Masters,STEM,11,0,Other,5,71
+19670,city_114,0.926,Male,Bachelor,STEM,16,0,Other,1,56
+19825,city_180,0.698,Male,Bachelor,Other,15,0,Other,5,31
+20019,city_21,0.624,Male,Bachelor,STEM,13,0,Other,0,34
+20097,city_103,0.92,Other,Masters,STEM,21,0,Other,3,107
+20116,city_103,0.92,prefer not to say,Bachelor,STEM,11,0,Other,0,11
+20140,city_103,0.92,Female,Bachelor,STEM,21,0,Other,5,55
+20257,city_160,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,39
+20289,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,7
+20302,city_73,0.754,prefer not to say,Bachelor,STEM,11,0,Other,2,154
+20376,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,25
+20462,city_21,0.624,prefer not to say,Masters,STEM,21,0,Other,0,20
+20578,city_97,0.925,Male,Masters,STEM,21,0,Other,2,35
+20616,city_162,0.767,Female,Masters,STEM,17,0,Other,3,10
+20683,city_103,0.92,Male,Masters,STEM,21,0,Other,5,102
+20873,city_103,0.92,prefer not to say,Masters,Other,21,0,Other,5,90
+20936,city_103,0.92,Male,Masters,STEM,15,0,Other,5,42
+20962,city_21,0.624,Male,Masters,STEM,21,0,Other,4,21
+21205,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,43
+21226,city_160,0.92,prefer not to say,Masters,STEM,21,0,Other,1,12
+21251,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,88
+21582,city_114,0.926,Male,Bachelor,Business Degree,21,0,Other,5,131
+21641,city_100,0.887,Male,Bachelor,STEM,13,0,Other,5,106
+21664,city_142,0.727,Male,Bachelor,STEM,17,0,Other,1,28
+21764,city_19,0.682,prefer not to say,Bachelor,STEM,12,0,Other,0,51
+21791,city_83,0.923,Male,Bachelor,STEM,21,0,Other,1,125
+21806,city_83,0.923,Male,Bachelor,STEM,19,0,Other,5,30
+21824,city_160,0.92,prefer not to say,Masters,STEM,16,0,Other,0,91
+22079,city_160,0.92,Male,Bachelor,Business Degree,21,0,Other,3,112
+22198,city_103,0.92,Male,Masters,STEM,21,0,Other,2,22
+22259,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,25
+22281,city_103,0.92,prefer not to say,Bachelor,STEM,20,0,Other,0,20
+22375,city_101,0.558,prefer not to say,Bachelor,STEM,21,0,Other,1,266
+22545,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,30
+22721,city_16,0.91,Male,Bachelor,STEM,21,0,Pvt Ltd,5,298
+22722,city_71,0.884,prefer not to say,Bachelor,STEM,21,0,Other,5,24
+22891,city_176,0.764,prefer not to say,Bachelor,STEM,16,0,Other,5,37
+22965,city_139,0.487,Male,Masters,STEM,19,0,Other,1,52
+23196,city_103,0.92,Male,Bachelor,Humanities,21,0,Other,5,23
+23242,city_103,0.92,Male,Bachelor,Business Degree,20,0,Other,5,152
+23266,city_100,0.887,Male,Bachelor,STEM,21,0,Other,2,121
+23302,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,12
+23389,city_155,0.556,Male,Masters,STEM,21,0,Other,2,27
+23468,city_142,0.727,Male,Masters,STEM,21,0,Other,1,88
+23471,city_103,0.92,Male,Bachelor,STEM,17,0,Other,5,20
+23559,city_67,0.855,Male,Bachelor,STEM,11,0,Other,2,76
+23613,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,5,78
+23641,city_160,0.92,Male,Bachelor,STEM,21,0,Other,0,18
+23903,city_160,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,83
+23938,city_21,0.624,prefer not to say,Bachelor,STEM,18,0,Other,5,94
+23951,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,15
+24064,city_21,0.624,prefer not to say,Masters,STEM,13,0,Other,1,68
+24107,city_160,0.92,Male,Bachelor,STEM,13,0,Other,5,47
+24354,city_21,0.624,prefer not to say,Not provided,Other,19,0,Other,0,58
+24385,city_128,0.527,prefer not to say,Bachelor,Other,13,0,Other,1,146
+24620,city_45,0.89,Male,Bachelor,Business Degree,21,0,Other,1,86
+24682,city_103,0.92,Male,Bachelor,Arts,14,0,Other,4,178
+24714,city_160,0.92,Male,Bachelor,Other,21,0,Other,1,19
+24719,city_103,0.92,Female,Bachelor,STEM,21,0,Other,5,42
+24752,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,6
+24774,city_16,0.91,Male,Not provided,Other,18,0,Other,5,56
+24775,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,13
+24790,city_103,0.92,prefer not to say,Bachelor,Humanities,21,0,Other,5,42
+24811,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,45
+24954,city_90,0.698,prefer not to say,Masters,STEM,14,0,Other,5,88
+25273,city_114,0.926,prefer not to say,Bachelor,STEM,14,0,Other,1,65
+25311,city_16,0.91,Male,Bachelor,STEM,11,0,Other,2,112
+25346,city_114,0.926,Male,Bachelor,STEM,21,0,Other,5,14
+25575,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,182
+25734,city_103,0.92,Male,Bachelor,Business Degree,21,0,Other,5,130
+25788,city_103,0.92,prefer not to say,Bachelor,Other,21,0,Other,1,51
+25917,city_103,0.92,Female,Bachelor,No Major,21,0,Other,5,30
+26029,city_160,0.92,Male,Bachelor,STEM,15,0,Other,2,112
+26038,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,47
+26046,city_160,0.92,Male,Bachelor,STEM,15,0,Other,3,14
+26129,city_103,0.92,Other,Masters,STEM,18,0,Other,1,45
+26149,city_143,0.74,Male,Masters,STEM,21,0,Other,1,72
+26258,city_103,0.92,Female,Bachelor,STEM,20,0,Other,5,20
+26330,city_21,0.624,Male,Not provided,Other,12,0,Other,1,40
+26349,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,13
+26363,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,35
+26414,city_72,0.795,prefer not to say,Bachelor,STEM,16,0,Other,5,4
+26499,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,50
+26573,city_16,0.91,Female,Bachelor,STEM,11,0,Other,1,68
+26823,city_103,0.92,Male,Bachelor,STEM,21,0,Other,4,32
+26849,city_103,0.92,Male,Masters,STEM,21,0,Other,2,97
+26922,city_83,0.923,Female,Bachelor,Humanities,18,0,Other,1,13
+26944,city_16,0.91,Male,Not provided,Other,21,0,Other,1,102
+27007,city_103,0.92,Male,Masters,Arts,21,0,Other,1,13
+27112,city_160,0.92,Male,Bachelor,STEM,21,0,Other,2,24
+27113,city_21,0.624,Male,Bachelor,STEM,11,0,Other,5,8
+27185,city_103,0.92,Male,Bachelor,STEM,11,0,Other,2,78
+27193,city_103,0.92,Male,Masters,STEM,13,0,Other,5,19
+27202,city_103,0.92,Male,Bachelor,STEM,15,0,Other,1,50
+27274,city_102,0.804,Male,Bachelor,STEM,11,0,Other,1,96
+27275,city_21,0.624,Male,Bachelor,STEM,20,0,Other,2,43
+27324,city_103,0.92,Female,Bachelor,STEM,13,0,Other,4,52
+27475,city_160,0.92,Male,Bachelor,STEM,21,0,Other,2,90
+27545,city_114,0.926,Male,Masters,STEM,21,0,Other,5,40
+27645,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,76
+27711,city_21,0.624,Male,Bachelor,Business Degree,17,0,Other,4,21
+27737,city_103,0.92,Male,Bachelor,No Major,21,0,Other,5,110
+27793,city_103,0.92,Male,Bachelor,STEM,11,0,Other,1,82
+28064,city_103,0.92,Male,Masters,STEM,21,0,Other,2,156
+28076,city_103,0.92,Female,Masters,STEM,21,0,Other,1,64
+28108,city_103,0.92,Male,Phd,STEM,21,0,Other,1,72
+28206,city_27,0.848,Male,Bachelor,STEM,12,0,Other,1,36
+28287,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,24
+28300,city_99,0.915,Male,Bachelor,STEM,21,0,Other,5,117
+28329,city_16,0.91,Male,Masters,STEM,11,0,Other,1,3
+28361,city_103,0.92,prefer not to say,Bachelor,STEM,21,0,Other,2,10
+28367,city_103,0.92,Male,Bachelor,STEM,16,0,Other,1,25
+28442,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,157
+28448,city_103,0.92,Male,Masters,Humanities,21,0,Other,4,20
+28551,city_103,0.92,Male,Bachelor,Arts,20,0,Other,4,58
+28615,city_65,0.802,Male,Masters,STEM,21,0,Other,1,145
+28679,city_103,0.92,Male,Masters,Arts,21,0,Other,1,36
+28689,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,39
+28767,city_160,0.92,Male,Bachelor,STEM,21,0,Other,5,30
+28811,city_103,0.92,Male,Bachelor,STEM,20,0,Other,1,134
+28882,city_75,0.939,Male,Masters,Business Degree,21,0,Other,1,25
+28928,city_103,0.92,Male,Bachelor,Arts,16,0,Other,1,127
+28978,city_19,0.682,Male,Masters,STEM,20,0,Other,1,61
+29005,city_90,0.698,Male,Bachelor,STEM,14,0,Other,1,180
+29035,city_105,0.794,Male,Bachelor,Humanities,11,0,Other,2,41
+29065,city_150,0.698,Other,Phd,Humanities,21,0,Other,1,9
+29130,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,161
+29178,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,51
+29244,city_103,0.92,Male,Bachelor,STEM,21,0,Other,4,6
+29347,city_103,0.92,Female,Masters,Arts,21,0,Other,1,18
+29364,city_89,0.925,prefer not to say,Bachelor,STEM,14,0,Other,1,11
+29382,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,112
+29425,city_160,0.92,Male,Masters,STEM,21,0,Other,5,63
+29460,city_103,0.92,Male,Bachelor,STEM,20,0,Other,1,55
+29471,city_21,0.624,Male,Masters,STEM,19,0,Other,5,13
+29488,city_100,0.887,Male,Bachelor,STEM,16,0,Other,5,25
+29522,city_160,0.92,Male,Bachelor,Arts,21,0,Other,4,103
+29555,city_64,0.666,Male,Not provided,Other,16,0,Other,4,118
+29713,city_100,0.887,Male,Masters,STEM,21,0,Other,3,31
+29771,city_103,0.92,Male,Bachelor,STEM,20,0,Other,2,30
+29829,city_46,0.762,Male,Bachelor,STEM,14,0,Other,5,16
+29884,city_103,0.92,Male,Bachelor,STEM,15,0,Other,5,65
+29918,city_103,0.92,Female,Masters,Humanities,21,0,Other,1,8
+29923,city_103,0.92,Female,Bachelor,STEM,13,0,Other,1,109
+29993,city_75,0.939,Male,Bachelor,STEM,21,0,Other,1,56
+30128,city_57,0.866,Male,Bachelor,STEM,21,0,Other,2,47
+30238,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,226
+30241,city_160,0.92,prefer not to say,Bachelor,STEM,21,0,Other,5,18
+30290,city_90,0.698,Male,Bachelor,STEM,15,0,Other,2,102
+30328,city_21,0.624,Male,Bachelor,STEM,14,0,Other,1,94
+30356,city_46,0.762,Male,Bachelor,STEM,17,0,Other,2,17
+30575,city_46,0.762,Male,Masters,STEM,11,0,Other,1,6
+30591,city_160,0.92,Male,Masters,STEM,21,0,Other,1,152
+30593,city_103,0.92,Male,Bachelor,Other,21,0,Other,1,182
+30747,city_103,0.92,Male,Bachelor,Humanities,16,0,Other,1,32
+30853,city_103,0.92,Male,Bachelor,STEM,16,0,Other,5,10
+30909,city_16,0.91,Male,Bachelor,STEM,21,0,Other,5,146
+30946,city_21,0.624,prefer not to say,Bachelor,STEM,21,0,Other,1,3
+30971,city_103,0.92,Male,Masters,STEM,11,0,Other,1,62
+31083,city_103,0.92,Male,Masters,STEM,21,0,Other,4,80
+31107,city_103,0.92,Male,Not provided,Other,21,0,Other,5,150
+31137,city_103,0.92,Male,Masters,STEM,21,0,Other,2,20
+31221,city_103,0.92,Male,Masters,STEM,21,0,Other,2,92
+31275,city_103,0.92,Male,Bachelor,STEM,16,0,Other,2,11
+31398,city_103,0.92,Male,Bachelor,STEM,14,0,Other,4,52
+31413,city_160,0.92,Male,Bachelor,STEM,21,0,Other,1,60
+31426,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,34
+31431,city_75,0.939,Male,Bachelor,STEM,21,0,Other,2,32
+31540,city_103,0.92,Female,Bachelor,No Major,13,0,Other,1,87
+31573,city_36,0.893,Male,Bachelor,STEM,21,0,Other,2,19
+31611,city_103,0.92,Male,Masters,STEM,21,0,Other,5,44
+31698,city_160,0.92,Male,Masters,STEM,21,0,Other,5,51
+31792,city_103,0.92,Male,Bachelor,Arts,21,0,Other,5,206
+31880,city_103,0.92,Male,Bachelor,STEM,19,0,Other,4,9
+31904,city_103,0.92,Male,Bachelor,Arts,16,0,Other,5,39
+31917,city_99,0.915,Female,Bachelor,STEM,21,0,Other,5,57
+31932,city_83,0.923,Female,Bachelor,STEM,21,0,Other,2,56
+32002,city_103,0.92,Male,Bachelor,Business Degree,13,0,Other,5,126
+32018,city_103,0.92,Male,Bachelor,STEM,21,0,Public Sector,5,50
+32028,city_103,0.92,Male,Bachelor,STEM,21,0,Public Sector,5,62
+32031,city_103,0.92,Other,Bachelor,Other,21,0,Other,5,34
+32068,city_126,0.479,prefer not to say,Primary School,Other,19,0,Pvt Ltd,0,62
+32157,city_103,0.92,Male,Bachelor,STEM,18,0,Other,0,116
+32293,city_16,0.91,Male,Masters,STEM,21,0,Other,1,14
+32362,city_67,0.855,Male,Masters,STEM,21,0,Other,3,32
+32442,city_103,0.92,Male,Bachelor,STEM,21,0,Other,1,19
+32485,city_103,0.92,Female,Bachelor,STEM,18,0,Other,1,12
+32562,city_126,0.479,prefer not to say,Not provided,Other,18,0,Other,0,61
+32602,city_103,0.92,Male,Masters,Business Degree,21,0,Other,1,150
+32627,city_103,0.92,Male,Masters,STEM,21,0,Other,1,86
+32684,city_91,0.691,Male,Bachelor,Humanities,11,0,Other,1,20
+32784,city_114,0.926,Male,Masters,Humanities,21,0,Other,5,17
+32877,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,40
+33057,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,29
+33195,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,14
+33212,city_103,0.92,Male,Masters,STEM,21,0,Other,5,161
+33360,city_103,0.92,Male,Masters,STEM,17,0,Other,5,65
+33367,city_103,0.92,Male,Bachelor,STEM,21,0,Other,5,220
